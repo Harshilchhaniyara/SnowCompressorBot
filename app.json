@@ -7,22 +7,22 @@
     "success_url": "",
     "stack": "container",
     "env": {
-        "APP_ID": {
+        "APP_ID": {22459937
             "description": "You api id get it from my.telegram.org or @apiScrapperRoBot",
             "value": "",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {220decb25dfe8efa08aa3dc80ea60267
             "description": "You api hash get it from my.telegram.org or @apiScrapperRoBot.",
             "value": "",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {7089251061:AAHtYoGvCvqyVM8WqTpI_ZzQjpiM52Fmeh4
             "description": "Make a bot from @BotFather and enter it's api token",
             "value": "",
             "required": true
         },
-        "OWNER": {
+        "OWNER": {6525704775
             "description": "Put ids of user which can access the bot e.g 123456789",
             "value": "",
             "required": true
